@@ -1,3 +1,5 @@
+//If you like this project, consider starring on GitHub! ⭐
+
 #include<Ticker.h>
 
 Ticker timer;
